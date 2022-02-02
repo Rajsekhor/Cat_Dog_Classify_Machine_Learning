@@ -1,5 +1,5 @@
 # Cat_Dog_Classify
-This code is a project provided by [Free Code Camp](https://www.freecodecamp.org/).
+This is a project provided by [Free Code Camp](https://www.freecodecamp.org/).
 
 This is my first machine learning project so, there are quite a few flaw in my model. The current model gave an accuracy of 70% during the last test run.
 
