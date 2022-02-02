@@ -16,9 +16,13 @@ Problem Link : https://colab.research.google.com/github/freeCodeCamp/boilerplate
 # References 
 
 https://www.youtube.com/watch?v=cPmjQ9V6Hbk&t=13939s
+
 https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS#forceEdit=true&sandboxMode=true
+
 https://www.tensorflow.org/tutorials/images/cnn
+
 https://github.com/hoangnam-nguyen/cat-dog-image-classifier
+
 https://github.com/VictorSM01/fcc_cat_dog/
 
 
